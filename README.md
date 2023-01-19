@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MrSlayerS
-- 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? Dont know
+- Hi, I’m Ričards
+-  I’m interested in Code
+-  I’m currently learning to tuch grass
+-  How to reach me? idk.
 
 <!---
 MrSlayerS/MrSlayerS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
